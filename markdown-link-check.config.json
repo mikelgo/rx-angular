@@ -9,10 +9,5 @@
     }
   ],
   "retryCount": 2,
-  "fallbackRetryDelay": "1s",
-  "ignorePatterns": [
-    {
-      "pattern": "^https://ngrx.io/"
-    }
-  ]
+  "fallbackRetryDelay": "1s"
 }
